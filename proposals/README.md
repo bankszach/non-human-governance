@@ -1,3 +1,4 @@
+
 # Proposals Directory
 
 This directory contains draft governance frameworks, specifications, and protocols for non-human intelligence systems.
